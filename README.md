@@ -15,3 +15,9 @@ Discord Rich presence for [Waterfox](https://www.waterfox.net/) written in c#
 ## Support Server
 
 #### [Discord](https://discord.gg/37uTqAhkms)
+
+## Development
+``` bash
+Application ID: "1131889146995154995"
+Large_image: "main"
+```
